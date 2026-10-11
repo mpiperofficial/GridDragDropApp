@@ -6,4 +6,4 @@ The aim is to create a premier data capture and data output processing suite tha
 
 The possibilities of adding on to this Windows Forms .NET Desktop Application are endless.
 
-I hope you enjoy the product and if you would like to help collaborate to it, shoot me an email at: mark.piper.official@outlook.com or mark.piper.official@protonmail.com
+I hope you enjoy the product and if you would like to help collaborate to it, shoot me an email at: mark.piper.official@outlook.com or mark.piper.official@gmail.com
